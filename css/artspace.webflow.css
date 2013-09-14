@@ -151,7 +151,7 @@ p {
   padding-top: 130px;
   padding-bottom: 125px;
   background-color: rgba(0, 0, 0, 0);
-  background-image: url(http://artspace.io/images/bg-image.jpg);
+  background-image: url(https://raw.github.com/mceoin/artspace/gh-pages/images/bg-image.JPG);
   background-size: cover;
   background-attachment: fixed;
 }
@@ -479,7 +479,7 @@ p {
   }
   .section.bg-image {
     position: static;
-    background-image: url('http://artspace.io/images/bg-image.jpg');
+    background-image: url('https://raw.github.com/mceoin/artspace/gh-pages/images/bg-image.JPG');
     background-position: 50% 50%;
     background-attachment: scroll;
   }
@@ -579,7 +579,7 @@ p {
   }
   .section.bg-image {
     margin-top: -103px;
-    background-image: url('http://artspace.io/images/bg-image.jpg');
+    background-image: url('https://raw.github.com/mceoin/artspace/gh-pages/images/bg-image.JPG');
     background-repeat: no-repeat no-repeat;
     background-attachment: scroll;
   }
@@ -787,7 +787,7 @@ p {
   .section.bg-image {
     padding-top: 30px;
     padding-bottom: 30px;
-    background-image: url(http://artspace.io/images/bg-image.jpg);
+    background-image: url(https://raw.github.com/mceoin/artspace/gh-pages/images/bg-image.JPG);
   }
   .nav-links {
     position: static;
