@@ -131,8 +131,6 @@ p {
 }
 .section.dark {
   padding-top: 46px;
-  border-top: 1px solid #eee;
-  border-bottom: 1px solid #eee;
   background-color: #f9f9f9;
   background-image: none;
   -webkit-transition: all 500ms ease;
