@@ -479,7 +479,7 @@ p {
   }
   .section.bg-image {
     position: static;
-    background-image: url('http://hw-cdn-prod-assets.webflow.com/522d8d044cdd32c1580001ab/Spray%20Cans(1).JPG');
+    background-image: url('../images/bg-image.jpg');
     background-position: 50% 50%;
     background-attachment: scroll;
   }
@@ -579,7 +579,7 @@ p {
   }
   .section.bg-image {
     margin-top: -103px;
-    background-image: url('http://hw-cdn-prod-assets.webflow.com/522d8d044cdd32c1580001ab/Spray%20Cans(1).JPG');
+    background-image: url('../images/bg-image.jpg');
     background-repeat: no-repeat no-repeat;
     background-attachment: scroll;
   }
@@ -787,7 +787,7 @@ p {
   .section.bg-image {
     padding-top: 30px;
     padding-bottom: 30px;
-    background-image: url(../images/wall.jpg);
+    background-image: url(../images/bg-image.jpg);
   }
   .nav-links {
     position: static;
